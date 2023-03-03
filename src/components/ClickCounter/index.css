@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+}
+.heading {
+  color: #2d3a35;
+  font-family: roboto;
+  font-size: 22px;
+}
+.paragraph {
+  color: #2d3a35;
+  font-family: roboto;
+  font-size: 22px;
+}
+.button {
+  color: #ffffff;
+  background-color: #007bff;
+  border-radius: 2px;
+}
